@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+
+Sitemap: https://bankacem.github.io/QR-Codes/sitemap.xml
+
+# Crawl-delay: 10
+# Allow search engines to index all public pages
+# QRGen Pro - Free QR Code Generator
+# Hosted on GitHub Pages
